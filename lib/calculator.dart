@@ -250,6 +250,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
         .contains(value)
         ? Colors.grey[900]
         : Colors.black87;
+    
   }
 
 }
