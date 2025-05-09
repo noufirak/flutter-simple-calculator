@@ -68,6 +68,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
   }
   Widget buildButton(value) {
     return Padding(
+
       padding: const EdgeInsets.all(4.0),
       child: Material(
         color: getBtnColor(value),
