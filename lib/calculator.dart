@@ -119,10 +119,8 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
    if(number1.isEmpty) return;
    if(operand.isEmpty) return;
    if(number2.isEmpty) return;
-
   final double num1=double.parse(number1);
   final  double num2=double.parse(number2);
-
    var result = 0.0;
    switch (operand){
      case Btn.add:
