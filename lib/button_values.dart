@@ -8,8 +8,6 @@ class Btn {
   static const String subtract = "-";
   static const String calculate = "=";
   static const String dot = ".";
-
-
   static const String n0 = "0";
   static const String n1 = "1";
   static const String n2 = "2";
@@ -20,7 +18,6 @@ class Btn {
   static const String n7 = "7";
   static const String n8 = "8";
   static const String n9 = "9";
-
   static const List<String> buttonValues = [
     del,
     clr,
