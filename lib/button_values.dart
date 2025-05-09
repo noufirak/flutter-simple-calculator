@@ -38,7 +38,6 @@ class Btn {
     n0,
     dot,
     calculate,
-
   ];
 }
 
